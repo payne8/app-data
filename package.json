@@ -1,0 +1,29 @@
+{
+  "name": "app-data-folder",
+  "version": "1.0.0",
+  "description": "A simple library that will always return the path to the Application Data folder on any platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/payne8/app-data.git"
+  },
+  "keywords": [
+    "Application",
+    "Data",
+    "AppData",
+    "folder",
+    "platform"
+  ],
+  "author": "Mason Payne <gomas.bmw@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/payne8/app-data/issues"
+  },
+  "homepage": "https://github.com/payne8/app-data#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
